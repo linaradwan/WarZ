@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: ed9fd2306cee04c7283520f800b24ec8
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: G18_
+    100004: G18_0
+    100006: G18_butts0
+    100008: G18_buttst
+    100010: G18_foregr
+    100012: G18_m4 sco
+    100014: G18_magazi
+    100016: G18_slide
+    100018: G18_suppre
+    100020: G18_tact f
+    400000: //RootNode
+    400002: G18_
+    400004: G18_0
+    400006: G18_butts0
+    400008: G18_buttst
+    400010: G18_foregr
+    400012: G18_m4 sco
+    400014: G18_magazi
+    400016: G18_slide
+    400018: G18_suppre
+    400020: G18_tact f
+    2300000: G18_
+    2300002: G18_0
+    2300004: G18_butts0
+    2300006: G18_buttst
+    2300008: G18_foregr
+    2300010: G18_m4 sco
+    2300012: G18_magazi
+    2300014: G18_slide
+    2300016: G18_suppre
+    2300018: G18_tact f
+    3300000: G18_
+    3300002: G18_0
+    3300004: G18_butts0
+    3300006: G18_buttst
+    3300008: G18_foregr
+    3300010: G18_m4 sco
+    3300012: G18_magazi
+    3300014: G18_slide
+    3300016: G18_suppre
+    3300018: G18_tact f
+    4300000: G18_magazi
+    4300002: G18_
+    4300004: G18_suppre
+    4300006: G18_slide
+    4300008: G18_0
+    4300010: G18_buttst
+    4300012: G18_butts0
+    4300014: G18_m4 sco
+    4300016: G18_tact f
+    4300018: G18_foregr
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

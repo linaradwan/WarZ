@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F30221D3-5059-630E-7A63-1F1E419D73E7}") = "Zombie game", "Assembly-CSharp-firstpass.csproj", "{A0B27859-052B-3BFF-A3F8-5AC1CA299834}"
+EndProject
+Project("{F30221D3-5059-630E-7A63-1F1E419D73E7}") = "Zombie game", "Assembly-CSharp.csproj", "{4294E1AC-4407-8F13-20D0-23BF939DB203}"
+EndProject
+Project("{F30221D3-5059-630E-7A63-1F1E419D73E7}") = "Zombie game", "Assembly-CSharp-Editor.csproj", "{262A695B-AFEE-169F-37DB-A070A565E65F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0B27859-052B-3BFF-A3F8-5AC1CA299834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B27859-052B-3BFF-A3F8-5AC1CA299834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B27859-052B-3BFF-A3F8-5AC1CA299834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B27859-052B-3BFF-A3F8-5AC1CA299834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4294E1AC-4407-8F13-20D0-23BF939DB203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4294E1AC-4407-8F13-20D0-23BF939DB203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4294E1AC-4407-8F13-20D0-23BF939DB203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4294E1AC-4407-8F13-20D0-23BF939DB203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{262A695B-AFEE-169F-37DB-A070A565E65F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{262A695B-AFEE-169F-37DB-A070A565E65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{262A695B-AFEE-169F-37DB-A070A565E65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{262A695B-AFEE-169F-37DB-A070A565E65F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
